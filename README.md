@@ -13,7 +13,7 @@
   <img align="center" alt="Matt-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
  
   
-  <img align="right" alt="Matt-pic" height="150" style="border-radius:50px; max-width:80%; margin:20px; padding:15px; padding-left:15px" 
+  <img align="right" alt="Matt-pic" height="150" style="border-radius:50px; max-width:80%; margin:20px; padding:25px; padding-left:15px" 
   src="https://cdn.discordapp.com/attachments/725857423671427134/933526455965609984/GIFPAL-20220119215948.gif">
   </div>
 
