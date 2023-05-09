@@ -1,5 +1,5 @@
 ## Olá, eu sou o Mateus Durães.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-duraes&show_icons=true&theme=midnight-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-duraes&include_all_commits=true&count_private=true&show_icons=true&theme=midnight-purple)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matt-duraes&hide_progress=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
