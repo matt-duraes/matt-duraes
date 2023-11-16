@@ -2,8 +2,8 @@
 
 ## Olá, eu sou o Mateus Durães.
 <div style="width: 100%">
-  <img style="max-width: 40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-duraes&theme=highcontrast&layout=compact">
-  <img style="max-width: 60%" src="https://github-readme-streak-stats.herokuapp.com?user=matt-duraes&theme=highcontrast&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CSat">  
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-duraes&theme=highcontrast&layout=compact">
+  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com?user=matt-duraes&theme=highcontrast&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CSat">  
 </div>
 
 ## 🚀 Minhas Skills
