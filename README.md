@@ -2,7 +2,6 @@
 
 ## Olá, eu sou o Mateus Durães.
 <div style="width: 100%">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-duraes&theme=highcontrast&layout=compact">
   <img height="180px" src="https://github-readme-streak-stats.herokuapp.com?user=matt-duraes&theme=highcontrast&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CSat">  
 </div>
 
